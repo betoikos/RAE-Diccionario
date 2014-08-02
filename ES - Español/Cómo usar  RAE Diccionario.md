@@ -14,12 +14,19 @@
 Para instalar la aplicación todo lo que necesitas seguir [este enlace](https://marketplace.firefox.com/app/rae-diccionario) y darle tap en el botón "Gratis"
 
 ##Interfaz
-La interfaz está compuesta por dos ventanas, la primera y principal es la ![siguiente:](https://raw.githubusercontent.com/betoikos/RAE-Diccionario/master/images/Interfaz%20primaria.png "ventana principal")
+La interfaz está compuesta por dos ventanas, la primera y principal es la siguiente:
 
-Y la ventana secundaria que es la ![siguiente:](https://raw.githubusercontent.com/betoikos/RAE-Diccionario/master/images/Interfaz%20Secundaria.png "ventana secundaria")
+![siguiente:](https://raw.githubusercontent.com/betoikos/RAE-Diccionario/master/images/Interfaz%20primaria.png "ventana principal")
+
+Y la ventana secundaria que es la siguiente:
+
+![siguiente:](https://raw.githubusercontent.com/betoikos/RAE-Diccionario/master/images/Interfaz%20Secundaria.png "ventana secundaria")
+
 ##Explicando la Interfaz
 ###La ventana principal 
-Veamos la siguiente ![imagen](https://raw.githubusercontent.com/betoikos/RAE-Diccionario/master/images/explicando%20la%20interfaz%20primaria.jpg)
+Veamos la siguiente imagen
+
+![imagen](https://raw.githubusercontent.com/betoikos/RAE-Diccionario/master/images/explicando%20la%20interfaz%20primaria.jpg)
 
 De donde los recuadros de colores señalan lo siguiente:
 
@@ -28,8 +35,11 @@ De donde los recuadros de colores señalan lo siguiente:
 * Cuadro Azul: Donde uno escribe el término a buscar
 * Cuadro Amarillo: Botón que uno presiona para buscar
 * Enorme Cuadro Blanco: Zona en la que aparece la definición de la palabra buscada
+
 ###La ventana secundaria
-Veamos la siguiente ![imagen](https://raw.githubusercontent.com/betoikos/RAE-Diccionario/master/images/explicando%20la%20interfaz%20secundaria.jpg)
+Veamos la siguiente imagen
+
+![imagen](https://raw.githubusercontent.com/betoikos/RAE-Diccionario/master/images/explicando%20la%20interfaz%20secundaria.jpg)
 
 De donde los recuadros de colores señalan lo siguiente:
 
@@ -39,7 +49,10 @@ De donde los recuadros de colores señalan lo siguiente:
 * Cuadro Amarillo: Espacio en donde vendrán las configuraciones (muy pronto).
 
 ##Uso
-El uso de la app es de lo más sencillo, veamos esta ![imagen:](https://raw.githubusercontent.com/betoikos/RAE-Diccionario/master/images/usando%20la%20app.jpg)
+El uso de la app es de lo más sencillo, veamos esta imagen
+
+![imagen:](https://raw.githubusercontent.com/betoikos/RAE-Diccionario/master/images/usando%20la%20app.jpg)
+
 Que son los pasos para usar la app:
 
 * Uno: Escribir la palabra española que se desea buscar
@@ -49,6 +62,7 @@ Que son los pasos para usar la app:
 #Más información
 ##¿Qué viene después?
 Para futuras versiones se planera incluir temas coloridos para cada personalidad y otros diccionarios importantes de la RAE. No olvides que si quieres una característica la puedes sugerir enviandome un [e-mail!!](mailto:rae.app@betoikos.com).
+
 ##¿Amo tu app, donde puedo contactarte?
 Gracias por amar mi app, puedes contactarme  de distintas maneras:
 
@@ -60,6 +74,7 @@ Gracias por amar mi app, puedes contactarme  de distintas maneras:
 Y si quieres puedes contribuir a que siga creando apps hermosas dándome una propina vía [Gittip](https://www.gittip.com/betoikos/)
 
 Y bueno eso es todo, solo queda por decir:
+
 #Disfruta de RAE Diccionario!!
 
 
