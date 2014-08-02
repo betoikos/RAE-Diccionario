@@ -3,6 +3,8 @@ This is the documentation for the RAE Diccionario app (wich is avaible for Firef
 
 So, read it and enjoy the app!!
 
+NOTE: This docs were asked by Gryllida in the marketplace so, here you have it :D
+
 
 #¡Bienvenido!
 Esta es la docuemtación de la aplicación RAE Diccionario (la cuál está disponible para Firefox OS y multiplataforma a través de Firefox) y se encuentra únicamente en Español e Inglés en principio. Si necesitas de esta documentación en tu lenguaje puedes solicitarla o ayudarme a traducirla.
